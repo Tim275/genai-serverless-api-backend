@@ -1,0 +1,11 @@
+schema {
+            query:Query
+        }
+
+type Query{
+    generateText(input:String!):String! @aws_api_key
+    generateImage(prompt:String!):String! @aws_api_key
+}
+
+
+
