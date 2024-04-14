@@ -4,11 +4,16 @@
 ![bedrockdark](https://github.com/Tim275/genai-serverless-api-backend/assets/117520669/0ef8ff02-707b-4e94-a484-f1f5968fa02e)
 
 
-# sam-gen-ai
+## Image generation
 
-Congratulations, you have just created a Serverless "Hello World" application using the AWS Serverless Application Model (AWS SAM) for the `python3.11` runtime, and options to bootstrap it with [**AWS Lambda Powertools for Python**](https://awslabs.github.io/aws-lambda-powertools-python/latest/) (Lambda Powertools) utilities for Logging, Tracing and Metrics.
+![Screenshot_4](https://github.com/Tim275/genai-serverless-api-backend/assets/117520669/8706fb16-990e-4efa-8ca5-13d0802ad93c)
 
-Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
+## Text generation
+
+
+![Screenshot_3](https://github.com/Tim275/genai-serverless-api-backend/assets/117520669/bb9d5a7f-9f15-4392-ae97-764953bb62e0)
+
+
 
 
 ## Powertools features
